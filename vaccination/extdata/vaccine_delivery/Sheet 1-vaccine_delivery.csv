@@ -1,0 +1,118 @@
+country,vaccine,doses
+Latvia,AstraZeneca,194400
+Latvia,Janssen,4800
+Latvia,Moderna,106800
+Latvia,Pfizer/BioNTech,78390
+Lithuania,AstraZeneca,319252
+Lithuania,Moderna,110018
+Lithuania,Pfizer/BioNTech,1204005
+United States,Janssen,17641150
+United States,Moderna,112801100
+United States,Pfizer/BioNTech,134063475
+France,AstraZeneca,5407600
+France,Janssen,206400
+France,Moderna,2484200
+France,Pfizer/BioNTech,15253095
+Germany,AstraZeneca,6960000
+Germany,Moderna,2742000
+Germany,Pfizer/BioNTech,26061555
+Italy,AstraZeneca,5277380
+Italy,Janssen,179800
+Italy,Moderna,1896200
+Italy,Pfizer/BioNTech,16352485
+Romania,AstraZeneca,1320400
+Romania,Moderna,505800
+Romania,Pfizer/BioNTech,4539300
+Algeria,Gamaleya Research Institute,500000
+Argentina,AstraZeneca,580000
+Argentina,Beijing Institute of Biological Products (CNBG),2000000
+Argentina,Gamaleya Research Institute,5420245
+Armenia,Gamaleya Research Institute,15000
+Austria,AstraZeneca,801600
+Austria,Janssen,16800
+Austria,Moderna,343200
+Austria,Pfizer/BioNTech,2052765
+Bangladesh,AstraZeneca,9100000
+Bosnia and Herzegovina,Gamaleya Research Institute,60000
+Brazil,AstraZeneca,7800000
+Brazil,Sinovac,36300000
+Bulgaria,AstraZeneca,661880
+Bulgaria,Janssen,14400
+Bulgaria,Moderna,169200
+Bulgaria,Pfizer/BioNTech,629420
+Costa Rica,Pfizer/BioNTech,979485
+Croatia,AstraZeneca,319200
+Croatia,Janssen,7150
+Croatia,Moderna,186128
+Croatia,Pfizer/BioNTech,457470
+Cyprus,AstraZeneca,135200
+Cyprus,Janssen,2400
+Cyprus,Moderna,21600
+Cyprus,Pfizer/BioNTech,218775
+Egypt,AstraZeneca,50000
+Egypt,Beijing Institute of Biological Products (CNBG),1300000
+Estonia,AstraZeneca,215345
+Estonia,Janssen,2400
+Estonia,Moderna,44094
+Estonia,Pfizer/BioNTech,392806
+Finland,AstraZeneca,432000
+Finland,Moderna,160800
+Finland,Pfizer/BioNTech,1313325
+Indonesia,Sinovac,60000000
+Iraq,Beijing Institute of Biological Products (CNBG),250000
+Iraq,Pfizer/BioNTech,50000
+Ireland,AstraZeneca,564000
+Ireland,Janssen,14400
+Ireland,Moderna,144000
+Ireland,Pfizer/BioNTech,1203930
+Jordan,Beijing Institute of Biological Products (CNBG),150000
+Jordan,Pfizer/BioNTech,1000000
+Maldives,Beijing Institute of Biological Products (CNBG),200000
+Mexico,AstraZeneca,7000000
+Mexico,CanSino Biologicals,5065000
+Mexico,Gamaleya Research Institute,900000
+Mexico,Pfizer/BioNTech,5508750
+Mexico,Sinovac,4000000
+Nepal,AstraZeneca,2100000
+Netherlands,AstraZeneca,1852960
+Netherlands,Janssen,79200
+Netherlands,Moderna,716400
+Netherlands,Pfizer/BioNTech,4463550
+North Macedonia,Gamaleya Research Institute,26000
+Philippines,Sinovac,4000000
+Poland,AstraZeneca,2695200
+Poland,Janssen,117600
+Poland,Moderna,1250800
+Poland,Pfizer/BioNTech,7815600
+Portugal,AstraZeneca,945600
+Portugal,Moderna,339600
+Portugal,Pfizer/BioNTech,2828679
+Slovakia,AstraZeneca,555600
+Slovakia,Gamaleya Research Institute,200000
+Slovakia,Moderna,164600
+Slovakia,Pfizer/BioNTech,994500
+Slovenia,AstraZeneca,184800
+Slovenia,Moderna,76800
+Slovenia,Pfizer/BioNTech,409500
+South Africa,AstraZeneca,1000000
+South Africa,Janssen,80000
+Spain,AstraZeneca,6993800
+Spain,Janssen,146400
+Spain,Moderna,6563100
+Spain,Pfizer/BioNTech,19832475
+Sweden,AstraZeneca,878500
+Sweden,Moderna,321600
+Sweden,Pfizer/BioNTech,2432235
+Syria,Gamaleya Research Institute,5000
+Taiwan,AstraZeneca,116500
+Thailand,AstraZeneca,117000
+Thailand,Sinovac,2000000
+United Kingdom,Pfizer/BioNTech,1000000
+Ukraine,AstraZeneca,500000
+Ukraine,Pfizer/BioNTech,100000
+Ukraine,Sinovac,215000
+Uzbekistan,Anhui Zhifei Longcom Biopharmaceutical,1000000
+Venezuela,Beijing Institute of Biological Products (CNBG),500000
+Venezuela,Gamaleya Research Institute,200000
+Zimbabwe,Beijing Institute of Biological Products (CNBG),400000
+Zimbabwe,Sinovac,1000000

@@ -1,0 +1,19 @@
+There are 7 sequential files to estimate the infect-induced seroprevalence
+
+1. "1. preprocessing_data.R" file is about preprocessing the serosurvey data. It produces "Preprocessing_data.Rdata".
+
+2. "2. hyperparameter.R" file is about choose hyperparameter of prior. It produces "hyperpar.Rdata". 
+
+3. "3. sample_posterior.R" file is about sampling posterior. It produces "sample_posterior.Rdata".
+
+4. "4. Inference_infection_rate.R" file is about predict seroprevalence via nation's statistics. It produces "final_result.Rdata".
+
+5. "5. plot_country.R" file is about plotting countrywise seroprevalence.
+
+6. "6. plot_world.R" file is about plotting worldwide seroprevalence.
+
+
+Particularly, the functions in "2. hyperparameter.R" and "3. sample_posterior.R" are related to the NIMBLE program.
+ 
+
+The "ext_Rdata" folder contains the produced data which is needed for next step.

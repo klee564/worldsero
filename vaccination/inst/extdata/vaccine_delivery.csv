@@ -1,0 +1,699 @@
+country,vaccine,doses
+Afghanistan,AstraZeneca,268800
+Afghanistan,Janssen,3312050
+Afghanistan,Covishield,968000
+Afghanistan,Sinopharm,700000
+Albania,AstraZeneca,120000
+Albania,Sputnik V,60000
+Albania,Pfizer/BioNTech,121680
+Albania,Covishield,50000
+Albania,Sinovac,560000
+Albania,Unknown,469756
+Algeria,AstraZeneca,1123200
+Algeria,Sputnik V,300000
+Algeria,Covishield,50000
+Algeria,Sinopharm,200000
+Algeria,Sinovac,2900000
+Andorra,AstraZeneca,26400
+Andorra,Unknown,82349
+Angola,Sputnik V,65000
+Angola,Pfizer/BioNTech,100620
+Angola,Covishield,1119000
+Angola,Sinopharm,200000
+Angola,Unknown,2780118
+Anguilla,Unknown,18193
+Antigua and Barbuda,AstraZeneca,40800
+Antigua and Barbuda,Covishield,40000
+Antigua and Barbuda,Unknown,29518
+Argentina,AstraZeneca,14597400
+Argentina,Sputnik V,16991350
+Argentina,Moderna,3500000
+Argentina,Covishield,580000
+Argentina,Sinopharm,14000000
+Armenia,AstraZeneca,124800
+Armenia,Sputnik V,29000
+Armenia,Unknown,142890
+Aruba,Unknown,139566
+Australia,AstraZeneca,1100000
+Australia,Pfizer/BioNTech,1941630
+Australia,Unknown,11108580
+Austria,AstraZeneca,2502200
+Austria,Janssen,320400
+Austria,Moderna,1176000
+Austria,Pfizer/BioNTech,7349343
+Azerbaijan,AstraZeneca,259200
+Azerbaijan,Sputnik V,80000
+Azerbaijan,Pfizer/BioNTech,218790
+Azerbaijan,Sinovac,500000
+Azerbaijan,Unknown,4838243
+Bahamas,AstraZeneca,100800
+Bahamas,Covishield,20000
+Bahamas,Unknown,88596
+Bahrain,AstraZeneca,62400
+Bahrain,Pfizer/BioNTech,7020
+Bahrain,Covishield,100000
+Bahrain,Sinopharm,300000
+Bahrain,Unknown,1972765
+Bangladesh,AstraZeneca,1643300
+Bangladesh,Moderna,5500060
+Bangladesh,Pfizer/BioNTech,100620
+Bangladesh,Covishield,9100000
+Bangladesh,Sinopharm,5100000
+Barbados,AstraZeneca,67200
+Barbados,Covishield,100000
+Barbados,Sinopharm,30000
+Belarus,Sputnik V,100000
+Belarus,Sinopharm,410000
+Belarus,Unknown,1870101
+Belgium,AstraZeneca,2176300
+Belgium,Janssen,590800
+Belgium,Moderna,1309400
+Belgium,Pfizer/BioNTech,9217455
+Belgium,Unknown,1693175
+Belize,AstraZeneca,100800
+Belize,Covaxin,25000
+Belize,Sinopharm,10000
+Belize,Unknown,151813
+Benin,Janssen,302400
+Benin,Covishield,114000
+Benin,Sinovac,303000
+Bermuda,AstraZeneca,9600
+Bermuda,Unknown,82976
+Bhutan,AstraZeneca,432500
+Bhutan,Moderna,500000
+Bhutan,Pfizer/BioNTech,5850
+Bhutan,Covishield,550000
+Bhutan,Sinopharm,50000
+Bolivia,Sputnik V,1670000
+Bolivia,Janssen,3016000
+Bolivia,Pfizer/BioNTech,193050
+Bolivia,Covishield,228000
+Bolivia,Sinopharm,4396400
+Bosnia and Herzegovina,AstraZeneca,108000
+Bosnia and Herzegovina,Sputnik V,30000
+Bosnia and Herzegovina,Pfizer/BioNTech,124020
+Bosnia and Herzegovina,Sinopharm,50000
+Bosnia and Herzegovina,Sinovac,40000
+Bosnia and Herzegovina,Unknown,491641
+Botswana,AstraZeneca,100800
+Botswana,Covaxin,30000
+Botswana,Pfizer/BioNTech,19890
+Botswana,Sinovac,200000
+Botswana,Unknown,140626
+Brazil,AstraZeneca,71066900
+Brazil,Janssen,4801550
+Brazil,Pfizer/BioNTech,15424110
+Brazil,Covishield,4000000
+Brazil,Sinovac,72230328
+British Virgin Islands,Unknown,27883
+Brunei Darussalam,AstraZeneca,100800
+Brunei Darussalam,Moderna,50400
+Brunei Darussalam,Sinopharm,52000
+Brunei Darussalam,Unknown,85877
+Bulgaria,AstraZeneca,1183200
+Bulgaria,Janssen,231700
+Bulgaria,Moderna,488400
+Bulgaria,Pfizer/BioNTech,2838420
+Burkina Faso,AstraZeneca,115200
+Burkina Faso,Janssen,302400
+Cabo Verde,AstraZeneca,31200
+Cabo Verde,Pfizer/BioNTech,5850
+Cabo Verde,Covishield,24000
+Cabo Verde,Unknown,361260
+Cambodia,AstraZeneca,1007500
+Cambodia,Janssen,1060100
+Cambodia,Covishield,324000
+Cambodia,Sinopharm,3203000
+Cambodia,Sinovac,4500000
+Cambodia,Unknown,4854403
+Cameroon,Janssen,303050
+Cameroon,Covishield,391200
+Cameroon,Sinopharm,200000
+Canada,AstraZeneca,3034760
+Canada,Janssen,300000
+Canada,Moderna,17094910
+Canada,Pfizer/BioNTech,38809590
+Canada,Covishield,500000
+Cayman Islands,Unknown,98419
+Central African Republic,AstraZeneca,53760
+Central African Republic,Janssen,302400
+Central African Republic,Covishield,80000
+Chad,Pfizer/BioNTech,100620
+Chad,Sinopharm,200000
+Chile,AstraZeneca,693600
+Chile,CanSino,575908
+Chile,Pfizer/BioNTech,272000
+Chile,Sinovac,17643463
+Chile,Unknown,6993462
+China,Unknown,1782525000
+Hong Kong,Pfizer/BioNTech,860000
+Hong Kong,Unknown,5320091
+Macao,Sinopharm,100000
+Macao,Unknown,426406
+Colombia,AstraZeneca,2474400
+Colombia,Janssen,2980000
+Colombia,Moderna,3500000
+Colombia,Pfizer/BioNTech,10047580
+Colombia,Sinovac,7972200
+Colombia,Unknown,6546618
+Comoros,Covishield,0
+Comoros,Unknown,162450
+Congo (DRC),Covishield,321000
+Congo (DRC),Unknown,36170
+CookIslands,Unknown,20509
+Costa Rica,AstraZeneca,540000
+Costa Rica,Pfizer/BioNTech,3057815
+Cote d'Ivoire,AstraZeneca,268800
+Cote d'Ivoire,Pfizer/BioNTech,100620
+Cote d'Ivoire,Covishield,654000
+Croatia,AstraZeneca,1105300
+Croatia,Janssen,112750
+Croatia,Moderna,591600
+Croatia,Pfizer/BioNTech,2446470
+Cuba,Unknown,10786497
+Cyprus,AstraZeneca,398700
+Cyprus,Janssen,37500
+Cyprus,Moderna,108000
+Cyprus,Pfizer/BioNTech,797289
+Cyprus,Sinovac,216000
+Czechia,AstraZeneca,848100
+Czechia,Janssen,216450
+Czechia,Moderna,901300
+Czechia,Pfizer/BioNTech,8740220
+Denmark,AstraZeneca,202920
+Denmark,Janssen,42300
+Denmark,Moderna,1093090
+Denmark,Pfizer/BioNTech,7124130
+Djibouti,Janssen,151200
+Djibouti,Covishield,24000
+Djibouti,Sinopharm,200000
+Djibouti,Sinovac,100000
+Dominica,AstraZeneca,8500
+Dominica,Covishield,70000
+Dominican Republic,AstraZeneca,753400
+Dominican Republic,Pfizer/BioNTech,790430
+Dominican Republic,Covishield,50000
+Dominican Republic,Sinopharm,50000
+Dominican Republic,Sinovac,7268000
+Dominican Republic,Unknown,1807311
+Ecuador,AstraZeneca,1072000
+Ecuador,Pfizer/BioNTech,3413310
+Ecuador,Sinovac,2520000
+Ecuador,Unknown,7013389
+Egypt,AstraZeneca,2623200
+Egypt,Sputnik V,210000
+Egypt,Covishield,50000
+Egypt,Sinopharm,2150000
+Egypt,Sinovac,2000000
+El Salvador,AstraZeneca,429600
+El Salvador,Moderna,3000200
+El Salvador,Pfizer/BioNTech,442260
+El Salvador,Covishield,20000
+El Salvador,Sinovac,2650000
+Equatorial Guinea,Sinopharm,300000
+Equatorial Guinea,Unknown,14289
+Estonia,AstraZeneca,348000
+Estonia,Janssen,46000
+Estonia,Moderna,160800
+Estonia,Pfizer/BioNTech,886860
+Eswatini,AstraZeneca,14400
+Eswatini,Janssen,302400
+Eswatini,Covishield,44000
+Ethiopia,AstraZeneca,391200
+Ethiopia,Janssen,1664150
+Ethiopia,Covishield,2184000
+Ethiopia,Sinopharm,300000
+Fiji,AstraZeneca,634200
+Fiji,Moderna,150080
+Finland,AstraZeneca,631200
+Finland,Janssen,68400
+Finland,Moderna,776400
+Finland,Pfizer/BioNTech,4947345
+France,AstraZeneca,10355500
+France,Janssen,2695800
+France,Moderna,9257200
+France,Pfizer/BioNTech,59609160
+French Polynesia,Unknown,161482
+Gabon,Sinopharm,100000
+Gabon,Unknown,3820
+Gambia,Janssen,302400
+Gambia,Covishield,36000
+Gambia,Sinopharm,10000
+Georgia,AstraZeneca,279600
+Georgia,Sputnik V,6500
+Georgia,Pfizer/BioNTech,558420
+Georgia,Sinopharm,600000
+Georgia,Sinovac,1100000
+Germany,AstraZeneca,17433730
+Germany,Janssen,4045955
+Germany,Moderna,11865280
+Germany,Pfizer/BioNTech,76265265
+Ghana,Sputnik V,21000
+Ghana,Covishield,1167000
+Ghana,Unknown,1033393
+Gibraltar,Unknown,78459
+Greece,Unknown,10807733
+Greenland,Unknown,64591
+Grenada,AstraZeneca,45600
+Guatemala,AstraZeneca,926400
+Guatemala,Sputnik V,350000
+Guatemala,Moderna,4500000
+Guatemala,Pfizer/BioNTech,363870
+Guatemala,Covishield,200000
+Guinea,Sputnik V,40000
+Guinea,Covishield,194400
+Guinea,Sinopharm,400000
+Guinea,Sinovac,300000
+Guinea-Bissau,Janssen,302400
+Guinea-Bissau,Covishield,40800
+Guinea-Bissau,Unknown,24000
+Guyana,AstraZeneca,62400
+Guyana,Sputnik V,305536
+Guyana,Covishield,83000
+Guyana,Sinopharm,20000
+Haiti,Moderna,500000
+Honduras,AstraZeneca,445100
+Honduras,Sputnik V,6000
+Honduras,Moderna,3000100
+Honduras,Pfizer/BioNTech,327600
+Hong Kong SAR and Macao,Pfizer/BioNTech,300000
+Hungary,AstraZeneca,2783500
+Hungary,Sputnik V,1100000
+Hungary,Janssen,550800
+Hungary,Moderna,1200000
+Hungary,Pfizer/BioNTech,7393230
+Hungary,Sinopharm,1700000
+Iceland,AstraZeneca,100880
+Iceland,Janssen,57500
+Iceland,Moderna,43220
+Iceland,Pfizer/BioNTech,300860
+India,Covaxin,1650000
+India,Sputnik V,3360000
+India,Covishield,153440000
+India,Unknown,360214759
+Indonesia,AstraZeneca,14906200
+Indonesia,Moderna,8000160
+Indonesia,Sinopharm,5482400
+Indonesia,Sinovac,118280000
+Iran,AstraZeneca,5064610
+Iran,Covaxin,125000
+Iran,Sputnik V,200000
+Iran,Sinopharm,650000
+Iran,Unknown,10326404
+Iraq,AstraZeneca,1084800
+Iraq,Pfizer/BioNTech,550000
+Iraq,Sinopharm,750000
+Ireland,AstraZeneca,1442700
+Ireland,Janssen,281500
+Ireland,Moderna,607200
+Ireland,Pfizer/BioNTech,4396080
+Israel,Moderna,120000
+Israel,Pfizer/BioNTech,8000000
+Israel,Unknown,3582556
+Italy,AstraZeneca,10128802
+Italy,Janssen,2264639
+Italy,Moderna,7703421
+Italy,Pfizer/BioNTech,51708460
+Jamaica,AstraZeneca,189800
+Jamaica,Covishield,125000
+Jamaica,Unknown,179960
+Japan,Pfizer/BioNTech,7501340
+Japan,Unknown,92149752
+Jordan,AstraZeneca,436800
+Jordan,Pfizer/BioNTech,1540950
+Jordan,Sinopharm,150000
+Jordan,Unknown,3615074
+Kazakhstan,Sputnik V,22000
+Kazakhstan,Sinovac,500000
+Kazakhstan,Unknown,9561693
+Kenya,AstraZeneca,541100
+Kenya,Covishield,1192000
+Kiribati,AstraZeneca,48000
+Kosovo,AstraZeneca,100800
+Kosovo,Pfizer/BioNTech,100620
+Kuwait,Pfizer/BioNTech,185100
+Kuwait,Covishield,588000
+Kuwait,Unknown,1637455
+Kyrgyzstan,AstraZeneca,226560
+Kyrgyzstan,Sputnik V,120000
+Kyrgyzstan,Sinopharm,150000
+Kyrgyzstan,Unknown,225332
+Lao,Janssen,1008000
+Lao,Pfizer/BioNTech,100620
+Lao,Covishield,132000
+Lao,Sinopharm,1602000
+Latvia,AstraZeneca,447800
+Latvia,Janssen,110200
+Latvia,Moderna,315600
+Latvia,Pfizer/BioNTech,1091415
+Lebanon,AstraZeneca,292800
+Lebanon,Sputnik V,50000
+Lebanon,Pfizer/BioNTech,588510
+Lebanon,Sinopharm,50000
+Lebanon,Unknown,1542842
+Lesotho,AstraZeneca,36000
+Lesotho,Janssen,302400
+Lesotho,Covishield,36000
+Liberia,Janssen,302400
+Liberia,Covishield,123000
+Libya,AstraZeneca,175200
+Libya,Sputnik V,302500
+Libya,Pfizer/BioNTech,54990
+Libya,Sinovac,150000
+Libya,Unknown,284917
+Liechtenstein,Moderna,33700
+Liechtenstein,Pfizer/BioNTech,14040
+Lithuania,AstraZeneca,1039430
+Lithuania,Janssen,174349
+Lithuania,Moderna,453952
+Lithuania,Pfizer/BioNTech,3459540
+Luxembourg,AstraZeneca,177800
+Luxembourg,Janssen,41850
+Luxembourg,Moderna,80400
+Luxembourg,Pfizer/BioNTech,550800
+Madagascar,Janssen,302750
+Madagascar,Covishield,250000
+Malawi,AstraZeneca,192000
+Malawi,Janssen,304350
+Malawi,Covishield,426000
+Malawi,Unknown,366077
+Malaysia,AstraZeneca,828000
+Malaysia,Pfizer/BioNTech,1000000
+Malaysia,Sinovac,12000000
+Malaysia,Unknown,11542437
+Maldives,Pfizer/BioNTech,5850
+Maldives,Covishield,212000
+Maldives,Sinopharm,200000
+Maldives,Unknown,204808
+Mali,Janssen,151200
+Mali,Covishield,296000
+Malta,Unknown,774250
+Mauritania,AstraZeneca,105600
+Mauritania,Janssen,302400
+Mauritania,Pfizer/BioNTech,5000
+Mauritania,Covishield,69600
+Mauritania,Sinopharm,50000
+Mauritius,AstraZeneca,100800
+Mauritius,Covaxin,200000
+Mauritius,Sputnik V,60000
+Mauritius,Covishield,200000
+Mauritius,Sinopharm,100000
+Mauritius,Unknown,677673
+Mexico,AstraZeneca,26169800
+Mexico,CanSino,8100000
+Mexico,Sputnik V,4400000
+Mexico,Janssen,1350000
+Mexico,Pfizer/BioNTech,21120450
+Mexico,Covishield,870000
+Mexico,Sinovac,15000000
+Monaco,Unknown,44060
+Mongolia,AstraZeneca,112800
+Mongolia,Sputnik V,40000
+Mongolia,Pfizer/BioNTech,126360
+Mongolia,Covishield,150000
+Mongolia,Sinopharm,2300000
+Mongolia,Unknown,1710827
+Montenegro,AstraZeneca,48000
+Montenegro,Sputnik V,2000
+Montenegro,Sinopharm,30000
+Montenegro,Unknown,314493
+Montserrat,Unknown,2791
+Morocco,AstraZeneca,957600
+Morocco,Janssen,302400
+Morocco,Covishield,7000000
+Morocco,Sinopharm,4500000
+Morocco,Unknown,14166395
+Mozambique,AstraZeneca,108000
+Mozambique,Janssen,302400
+Mozambique,Covishield,484000
+Mozambique,Sinopharm,260000
+Mozambique,Unknown,50000
+Myanmar,Covaxin,200000
+Myanmar,Covishield,3500000
+Myanmar,Sinopharm,1236000
+Namibia,AstraZeneca,67200
+Namibia,Covishield,30000
+Namibia,Sinopharm,250000
+Namibia,Sinovac,100000
+Nauru,AstraZeneca,7200
+Nauru,Covishield,10000
+Nepal,Janssen,1534850
+Nepal,Covishield,2448000
+Nepal,Sinopharm,1600000
+Netherlands,AstraZeneca,3802600
+Netherlands,Janssen,1432800
+Netherlands,Moderna,2304000
+Netherlands,Pfizer/BioNTech,15192450
+New Caledonia,Unknown,130078
+New Zealand,Pfizer/BioNTech,620620
+New Zealand,Unknown,1501024
+Nicaragua,AstraZeneca,134400
+Nicaragua,Covishield,335000
+Nicaragua,Unknown,215640
+Niger,Janssen,302400
+Niger,Covishield,380200
+Niger,Sinopharm,400000
+Nigeria,Moderna,4000080
+Nigeria,Covishield,4324000
+Niue,Unknown,1216
+North Macedonia,AstraZeneca,62400
+North Macedonia,Sputnik V,39000
+North Macedonia,Pfizer/BioNTech,115830
+North Macedonia,Sinopharm,200000
+North Macedonia,Sinovac,530000
+North Macedonia,Unknown,148393
+Norway,AstraZeneca,345600
+Norway,Janssen,403900
+Norway,Moderna,632400
+Norway,Pfizer/BioNTech,3933540
+Norway,Unknown,308509
+Oman,AstraZeneca,132000
+Oman,Pfizer/BioNTech,355560
+Oman,Covishield,100000
+Oman,Unknown,1534821
+Pakistan,AstraZeneca,2474400
+Pakistan,CanSino,390000
+Pakistan,Sputnik V,50000
+Pakistan,Moderna,5500060
+Pakistan,Pfizer/BioNTech,100620
+Pakistan,Sinopharm,5000000
+Pakistan,Sinovac,10050000
+Pakistan,Unknown,16434646
+Panama,AstraZeneca,518400
+Panama,Sputnik V,40950
+Panama,Pfizer/BioNTech,2118688
+Panama,Unknown,625953
+Papua New Guinea,AstraZeneca,164880
+Papua New Guinea,Janssen,302400
+Papua New Guinea,Covishield,132000
+Paraguay,AstraZeneca,558240
+Paraguay,Sputnik V,204000
+Paraguay,Sinovac,20000
+Paraguay,Unknown,1899997
+Peru,AstraZeneca,888960
+Peru,Pfizer/BioNTech,7232290
+Peru,Sinopharm,2694000
+Peru,Unknown,5523507
+Philippines,AstraZeneca,6858900
+Philippines,Sputnik V,350000
+Philippines,Janssen,3240850
+Philippines,Moderna,3500460
+Philippines,Pfizer/BioNTech,3410550
+Philippines,Sinovac,16500000
+Poland,AstraZeneca,8541700
+Poland,Janssen,2161300
+Poland,Moderna,4655200
+Poland,Pfizer/BioNTech,33414030
+Portugal,AstraZeneca,2929400
+Portugal,Janssen,943400
+Portugal,Moderna,1365600
+Portugal,Pfizer/BioNTech,8776170
+Qatar,AstraZeneca,74400
+Qatar,Unknown,3951518
+Republic of Korea,AstraZeneca,1267200
+Republic of Korea,Janssen,1013000
+Republic of Korea,Moderna,451000
+Republic of Korea,Pfizer/BioNTech,3390180
+Republic of Korea,Unknown,21587266
+Republic of Korea,Vaxzevria,1500000
+Republic of Moldova,AstraZeneca,381600
+Republic of Moldova,Sputnik V,101000
+Republic of Moldova,Janssen,302400
+Republic of Moldova,Pfizer/BioNTech,125190
+Republic of Moldova,Unknown,569059
+Romania,AstraZeneca,2968400
+Romania,Janssen,1086100
+Romania,Moderna,1348200
+Romania,Pfizer/BioNTech,10271550
+Russia,Unknown,66245526
+Rwanda,AstraZeneca,117600
+Rwanda,Pfizer/BioNTech,203580
+Rwanda,Covishield,420000
+Saint Helena,Unknown,7892
+Saint Kitts and Nevis,AstraZeneca,21600
+Saint Kitts and Nevis,Covishield,20000
+Saint Kitts and Nevis,Unknown,23873
+Saint Lucia,AstraZeneca,50400
+Saint Lucia,Covishield,25000
+Saint Vincent and the Grenadines,AstraZeneca,45600
+Saint Vincent and the Grenadines,Covishield,40000
+Samoa,AstraZeneca,52800
+Samoa,Unknown,92415
+San Marino,Sputnik V,7500
+San Marino,Unknown,38440
+Sao Tome and Principe,AstraZeneca,24000
+Sao Tome and Principe,Covishield,24000
+Sao Tome and Principe,Unknown,27956
+Saudi Arabia,AstraZeneca,892800
+Saudi Arabia,Pfizer/BioNTech,279630
+Saudi Arabia,Covishield,3000000
+Saudi Arabia,Unknown,26951707
+Senegal,AstraZeneca,184800
+Senegal,Janssen,302400
+Senegal,Covishield,349000
+Senegal,Sinopharm,500000
+Serbia,AstraZeneca,177600
+Serbia,Pfizer/BioNTech,132210
+Serbia,Sinopharm,1646000
+Serbia,Unknown,3831073
+Seychelles,Covishield,50000
+Seychelles,Sinopharm,50000
+Seychelles,Unknown,41435
+Sierra Leone,Covishield,96000
+Sierra Leone,Sinopharm,200000
+Singapore,Sinovac,200000
+Singapore,Unknown,7842596
+Slovakia,AstraZeneca,982800
+Slovakia,Sputnik V,400000
+Slovakia,Janssen,137075
+Slovakia,Moderna,501600
+Slovakia,Pfizer/BioNTech,3091140
+Slovenia,AstraZeneca,900000
+Slovenia,Janssen,120000
+Slovenia,Moderna,258000
+Slovenia,Pfizer/BioNTech,1517490
+Solomon Islands,AstraZeneca,28800
+Solomon Islands,Covishield,24000
+Solomon Islands,Sinopharm,50000
+Somalia,AstraZeneca,108000
+Somalia,Janssen,302400
+Somalia,Covishield,300000
+Somalia,Sinopharm,200000
+South Africa,Janssen,80000
+South Africa,Pfizer/BioNTech,7378020
+South Africa,Covishield,1000000
+South Africa,Unknown,7196864
+South Sudan,Covishield,119000
+Spain,AstraZeneca,10386700
+Spain,Janssen,2290200
+Spain,Moderna,6651600
+Spain,Pfizer/BioNTech,41098895
+Sri Lanka,AstraZeneca,728460
+Sri Lanka,Sputnik V,130000
+Sri Lanka,Moderna,1500100
+Sri Lanka,Pfizer/BioNTech,285400
+Sri Lanka,Covishield,1264000
+Sri Lanka,Sinopharm,5100000
+Sri Lanka,Unknown,5749738
+Sudan,Janssen,606700
+Sudan,Covishield,828000
+Sudan,Sinopharm,250000
+Suriname,AstraZeneca,52800
+Suriname,Covishield,51000
+Suriname,Unknown,210398
+Sweden,AstraZeneca,1613700
+Sweden,Moderna,1359600
+Sweden,Pfizer/BioNTech,8749065
+Switzerland,Unknown,9086296
+Syrian Arab Republic,Sputnik V,5000
+Syrian Arab Republic,Covishield,256800
+Syrian Arab Republic,Sinopharm,150000
+Taiwan,AstraZeneca,3949600
+Taiwan,Moderna,3650000
+Taiwan,Unknown,887797
+Taiwan,Vaxzevria,1302500
+Tajikistan,AstraZeneca,128640
+Tajikistan,Moderna,1500100
+Tajikistan,Covishield,192000
+Thailand,AstraZeneca,1917000
+Thailand,Sinopharm,3000000
+Thailand,Sinovac,4500000
+Thailand,Unknown,10215537
+The republic of the Congo,Sinopharm,100000
+The republic of the Congo,Unknown,98698
+Timor-Leste,AstraZeneca,144800
+Timor-Leste,Sinovac,100000
+Timor-Leste,Unknown,258962
+Togo,Pfizer/BioNTech,100620
+Togo,Covishield,326000
+Togo,Sinovac,200000
+Tonga,AstraZeneca,48000
+Trinidad and Tobago,AstraZeneca,67200
+Trinidad and Tobago,Pfizer/BioNTech,480
+Trinidad and Tobago,Covishield,40000
+Trinidad and Tobago,Sinopharm,1100000
+Trinidad and Tobago,Vaxzevria,35000
+Tunisia,AstraZeneca,580800
+Tunisia,Sputnik V,30000
+Tunisia,Moderna,1000020
+Tunisia,Pfizer/BioNTech,1037538
+Tunisia,Sinovac,150000
+Tunisia,Unknown,1099046
+Turkey,Pfizer/BioNTech,4500000
+Turkey,Sinovac,25000000
+Turkey,Unknown,46529390
+Turkmenistan,Unknown,41993
+Turks and Caicos Islands,Unknown,47263
+Tuvalu,AstraZeneca,9600
+Uganda,AstraZeneca,461280
+Uganda,Covishield,964000
+Ukraine,AstraZeneca,1180800
+Ukraine,Janssen,500
+Ukraine,Moderna,2000040
+Ukraine,Pfizer/BioNTech,1348390
+Ukraine,Covishield,500000
+Ukraine,Sinovac,2400000
+United Arab Emirates,Covishield,200000
+United Arab Emirates,Sinopharm,3000000
+United Arab Emirates,Unknown,13913003
+United Kingdom,Pfizer/BioNTech,1539370
+United Kingdom,Covishield,5000000
+United Kingdom,Unknown,80466264
+United Republic of Tanzania,Janssen,1058450
+United States of America,Janssen,21484400
+United States of America,Moderna,164633380
+United States of America,Pfizer/BioNTech,212952975
+Uruguay,AstraZeneca,98400
+Uruguay,Pfizer/BioNTech,550000
+Uruguay,Sinovac,1750000
+Uruguay,Unknown,2582131
+Uzbekistan,Anhui ZL,4500000
+Uzbekistan,Sputnik V,330000
+Uzbekistan,Moderna,3000060
+Uzbekistan,Covishield,660000
+Uzbekistan,Vaxzevria,50000
+Vanuatu,AstraZeneca,24000
+Venezuela,Sputnik V,880000
+Venezuela,Sinopharm,500000
+Venezuela,Unknown,2620000
+Viet Nam,AstraZeneca,10311500
+Viet Nam,Sputnik V,2000
+Viet Nam,Moderna,5000100
+Viet Nam,Pfizer/BioNTech,97111
+Viet Nam,Sinopharm,500000
+Wallis and Futuna,Unknown,9372
+West Bank and Gaza,AstraZeneca,168000
+West Bank and Gaza,Sputnik V,22000
+West Bank and Gaza,Moderna,2000
+West Bank and Gaza,Pfizer/BioNTech,140400
+West Bank and Gaza,Covishield,25000
+West Bank and Gaza,Sinopharm,100000
+West Bank and Gaza,Unknown,877500
+Yemen,Covishield,360000
+Zambia,AstraZeneca,228000
+Zimbabwe,Janssen,302400
+Zimbabwe,Covishield,228000
+Zimbabwe,Sputnik V,50000
+Zimbabwe,Covishield,35000
+Zimbabwe,Sinopharm,1044000
+Zimbabwe,Sinovac,4200000

@@ -1,0 +1,26 @@
+{
+    "id": "74578FB6",
+    "path": "~/Documents/Rprojects/vaccination/R/regression_pois.R",
+    "project_path": "R/regression_pois.R",
+    "type": "r_source",
+    "hash": "1690836012",
+    "contents": "",
+    "dirty": false,
+    "created": 1708406672628.0,
+    "source_on_save": false,
+    "relative_order": 4,
+    "properties": {
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "17,1",
+        "scrollLine": "7"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1671951012,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1671951012,
+    "read_only": false,
+    "read_only_alternatives": []
+}

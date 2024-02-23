@@ -1,0 +1,195 @@
+IndicatorCode,Indicator,ValueType,ParentLocationCode,ParentLocation,Location type,SpatialDimValueCode,Location,Period type,Period,IsLatestYear,Dim1 type,Dim1,Dim1ValueCode,Dim2 type,Dim2,Dim2ValueCode,Dim3 type,Dim3,Dim3ValueCode,DataSourceDimValueCode,DataSource,FactValueNumericPrefix,FactValueNumeric,FactValueUoM,FactValueNumericLowPrefix,FactValueNumericLow,FactValueNumericHighPrefix,FactValueNumericHigh,Value,FactValueTranslationID,FactComments,Language,DateModified
+WHS9_86,Population (in thousands) total,numeric,EUR,Europe,Country,CYP,Cyprus,Year,2016,true,,,,,,,,,,,,,1170,,,,,,"1,170",,,EN,2018-03-14T15:00:00.000Z
+WHS9_86,Population (in thousands) total,numeric,AFR,Africa,Country,GNQ,Equatorial Guinea,Year,2016,true,,,,,,,,,,,,,1221,,,,,,"1,221",,,EN,2018-03-14T15:00:00.000Z
+WHS9_86,Population (in thousands) total,numeric,AFR,Africa,Country,MUS,Mauritius,Year,2016,true,,,,,,,,,,,,,1262,,,,,,"1,262",,,EN,2018-03-14T15:00:00.000Z
+WHS9_86,Population (in thousands) total,numeric,SEAR,South-East Asia,Country,TLS,Timor-Leste,Year,2016,true,,,,,,,,,,,,,1269,,,,,,"1,269",,,EN,2018-03-14T15:00:00.000Z
+WHS9_86,Population (in thousands) total,numeric,EUR,Europe,Country,EST,Estonia,Year,2016,true,,,,,,,,,,,,,1312,,,,,,"1,312",,,EN,2018-03-14T15:00:00.000Z
+WHS9_86,Population (in thousands) total,numeric,SEAR,South-East Asia,Country,IND,India,Year,2016,true,,,,,,,,,,,,,1324171,,,,,,"1,324,171",,,EN,2018-03-14T15:00:00.000Z
+WHS9_86,Population (in thousands) total,numeric,AFR,Africa,Country,SWZ,Eswatini,Year,2016,true,,,,,,,,,,,,,1343,,,,,,"1,343",,,EN,2018-03-14T15:00:00.000Z
+WHS9_86,Population (in thousands) total,numeric,AMR,Americas,Country,TTO,Trinidad and Tobago,Year,2016,true,,,,,,,,,,,,,1365,,,,,,"1,365",,,EN,2018-03-14T15:00:00.000Z
+WHS9_86,Population (in thousands) total,numeric,WPR,Western Pacific,Country,CHN,China,Year,2016,true,,,,,,,,,,,,,1411415,,,,,,"1,411,415",,,EN,2018-03-14T15:00:00.000Z
+WHS9_86,Population (in thousands) total,numeric,EMR,Eastern Mediterranean,Country,BHR,Bahrain,Year,2016,true,,,,,,,,,,,,,1425,,,,,,"1,425",,,EN,2018-03-14T15:00:00.000Z
+WHS9_86,Population (in thousands) total,numeric,AFR,Africa,Country,GNB,Guinea-Bissau,Year,2016,true,,,,,,,,,,,,,1816,,,,,,"1,816",,,EN,2018-03-14T15:00:00.000Z
+WHS9_86,Population (in thousands) total,numeric,EUR,Europe,Country,LVA,Latvia,Year,2016,true,,,,,,,,,,,,,1971,,,,,,"1,971",,,EN,2018-03-14T15:00:00.000Z
+WHS9_86,Population (in thousands) total,numeric,AFR,Africa,Country,GAB,Gabon,Year,2016,true,,,,,,,,,,,,,1980,,,,,,"1,980",,,EN,2018-03-14T15:00:00.000Z
+WHS9_86,Population (in thousands) total,numeric,EUR,Europe,Country,PRT,Portugal,Year,2016,true,,,,,,,,,,,,,10372,,,,,,"10,372",,,EN,2018-03-14T15:00:00.000Z
+WHS9_86,Population (in thousands) total,numeric,AFR,Africa,Country,BDI,Burundi,Year,2016,true,,,,,,,,,,,,,10524,,,,,,"10,524",,,EN,2018-03-14T15:00:00.000Z
+WHS9_86,Population (in thousands) total,numeric,EUR,Europe,Country,CZE,Czechia,Year,2016,true,,,,,,,,,,,,,10611,,,,,,"10,611",,,EN,2018-03-14T15:00:00.000Z
+WHS9_86,Population (in thousands) total,numeric,AMR,Americas,Country,DOM,Dominican Republic,Year,2016,true,,,,,,,,,,,,,10649,,,,,,"10,649",,,EN,2018-03-14T15:00:00.000Z
+WHS9_86,Population (in thousands) total,numeric,AMR,Americas,Country,HTI,Haiti,Year,2016,true,,,,,,,,,,,,,10847,,,,,,"10,847",,,EN,2018-03-14T15:00:00.000Z
+WHS9_86,Population (in thousands) total,numeric,AFR,Africa,Country,BEN,Benin,Year,2016,true,,,,,,,,,,,,,10872,,,,,,"10,872",,,EN,2018-03-14T15:00:00.000Z
+WHS9_86,Population (in thousands) total,numeric,AMR,Americas,Country,BOL,Bolivia (Plurinational State of),Year,2016,true,,,,,,,,,,,,,10888,,,,,,"10,888",,,EN,2018-03-14T15:00:00.000Z
+WHS9_86,Population (in thousands) total,numeric,AMR,Americas,Country,ATG,Antigua and Barbuda,Year,2016,true,,,,,,,,,,,,,101,,,,,,101,,,EN,2018-03-14T15:00:00.000Z
+WHS9_86,Population (in thousands) total,numeric,AFR,Africa,Country,ETH,Ethiopia,Year,2016,true,,,,,,,,,,,,,102403,,,,,,"102,403",,,EN,2018-03-14T15:00:00.000Z
+WHS9_86,Population (in thousands) total,numeric,WPR,Western Pacific,Country,PHL,Philippines,Year,2016,true,,,,,,,,,,,,,103320,,,,,,"103,320",,,EN,2018-03-14T15:00:00.000Z
+WHS9_86,Population (in thousands) total,numeric,WPR,Western Pacific,Country,FSM,Micronesia (Federated States of),Year,2016,true,,,,,,,,,,,,,105,,,,,,105,,,EN,2018-03-14T15:00:00.000Z
+WHS9_86,Population (in thousands) total,numeric,AMR,Americas,Country,GRD,Grenada,Year,2016,true,,,,,,,,,,,,,107,,,,,,107,,,EN,2018-03-14T15:00:00.000Z
+WHS9_86,Population (in thousands) total,numeric,WPR,Western Pacific,Country,TON,Tonga,Year,2016,true,,,,,,,,,,,,,107,,,,,,107,,,EN,2018-03-14T15:00:00.000Z
+WHS9_86,Population (in thousands) total,numeric,WPR,Western Pacific,Country,NRU,Nauru,Year,2016,true,,,,,,,,,,,,,11,,,,,,11,,,EN,2018-03-14T15:00:00.000Z
+WHS9_86,Population (in thousands) total,numeric,WPR,Western Pacific,Country,TUV,Tuvalu,Year,2016,true,,,,,,,,,,,,,11,,,,,,11,,,EN,2018-03-14T15:00:00.000Z
+WHS9_86,Population (in thousands) total,numeric,EUR,Europe,Country,GRC,Greece,Year,2016,true,,,,,,,,,,,,,11184,,,,,,"11,184",,,EN,2018-03-14T15:00:00.000Z
+WHS9_86,Population (in thousands) total,numeric,EUR,Europe,Country,BEL,Belgium,Year,2016,true,,,,,,,,,,,,,11358,,,,,,"11,358",,,EN,2018-03-14T15:00:00.000Z
+WHS9_86,Population (in thousands) total,numeric,EMR,Eastern Mediterranean,Country,TUN,Tunisia,Year,2016,true,,,,,,,,,,,,,11403,,,,,,"11,403",,,EN,2018-03-14T15:00:00.000Z
+WHS9_86,Population (in thousands) total,numeric,AMR,Americas,Country,CUB,Cuba,Year,2016,true,,,,,,,,,,,,,11476,,,,,,"11,476",,,EN,2018-03-14T15:00:00.000Z
+WHS9_86,Population (in thousands) total,numeric,AFR,Africa,Country,RWA,Rwanda,Year,2016,true,,,,,,,,,,,,,11918,,,,,,"11,918",,,EN,2018-03-14T15:00:00.000Z
+WHS9_86,Population (in thousands) total,numeric,AMR,Americas,Country,VCT,Saint Vincent and the Grenadines,Year,2016,true,,,,,,,,,,,,,110,,,,,,110,,,EN,2018-03-14T15:00:00.000Z
+WHS9_86,Population (in thousands) total,numeric,WPR,Western Pacific,Country,KIR,Kiribati,Year,2016,true,,,,,,,,,,,,,114,,,,,,114,,,EN,2018-03-14T15:00:00.000Z
+WHS9_86,Population (in thousands) total,numeric,AFR,Africa,Country,SSD,South Sudan,Year,2016,true,,,,,,,,,,,,,12231,,,,,,"12,231",,,EN,2018-03-14T15:00:00.000Z
+WHS9_86,Population (in thousands) total,numeric,AFR,Africa,Country,GIN,Guinea,Year,2016,true,,,,,,,,,,,,,12396,,,,,,"12,396",,,EN,2018-03-14T15:00:00.000Z
+WHS9_86,Population (in thousands) total,numeric,AMR,Americas,Country,MEX,Mexico,Year,2016,true,,,,,,,,,,,,,127540,,,,,,"127,540",,,EN,2018-03-14T15:00:00.000Z
+WHS9_86,Population (in thousands) total,numeric,WPR,Western Pacific,Country,JPN,Japan,Year,2016,true,,,,,,,,,,,,,127749,,,,,,"127,749",,,EN,2018-03-14T15:00:00.000Z
+WHS9_86,Population (in thousands) total,numeric,EMR,Eastern Mediterranean,Country,SOM,Somalia,Year,2016,true,,,,,,,,,,,,,14318,,,,,,"14,318",,,EN,2018-03-14T15:00:00.000Z
+WHS9_86,Population (in thousands) total,numeric,AFR,Africa,Country,TCD,Chad,Year,2016,true,,,,,,,,,,,,,14453,,,,,,"14,453",,,EN,2018-03-14T15:00:00.000Z
+WHS9_86,Population (in thousands) total,numeric,EUR,Europe,Country,RUS,Russian Federation,Year,2016,true,,,,,,,,,,,,,143965,,,,,,"143,965",,,EN,2018-03-14T15:00:00.000Z
+WHS9_86,Population (in thousands) total,numeric,AFR,Africa,Country,SEN,Senegal,Year,2016,true,,,,,,,,,,,,,15412,,,,,,"15,412",,,EN,2018-03-14T15:00:00.000Z
+WHS9_86,Population (in thousands) total,numeric,WPR,Western Pacific,Country,KHM,Cambodia,Year,2016,true,,,,,,,,,,,,,15762,,,,,,"15,762",,,EN,2018-03-14T15:00:00.000Z
+WHS9_86,Population (in thousands) total,numeric,AFR,Africa,Country,ZWE,Zimbabwe,Year,2016,true,,,,,,,,,,,,,16150,,,,,,"16,150",,,EN,2018-03-14T15:00:00.000Z
+WHS9_86,Population (in thousands) total,numeric,AMR,Americas,Country,ECU,Ecuador,Year,2016,true,,,,,,,,,,,,,16385,,,,,,"16,385",,,EN,2018-03-14T15:00:00.000Z
+WHS9_86,Population (in thousands) total,numeric,AMR,Americas,Country,GTM,Guatemala,Year,2016,true,,,,,,,,,,,,,16582,,,,,,"16,582",,,EN,2018-03-14T15:00:00.000Z
+WHS9_86,Population (in thousands) total,numeric,AFR,Africa,Country,ZMB,Zambia,Year,2016,true,,,,,,,,,,,,,16591,,,,,,"16,591",,,EN,2018-03-14T15:00:00.000Z
+WHS9_86,Population (in thousands) total,numeric,EUR,Europe,Country,NLD,Netherlands,Year,2016,true,,,,,,,,,,,,,16987,,,,,,"16,987",,,EN,2018-03-14T15:00:00.000Z
+WHS9_86,Population (in thousands) total,numeric,SEAR,South-East Asia,Country,BGD,Bangladesh,Year,2016,true,,,,,,,,,,,,,162952,,,,,,"162,952",,,EN,2018-03-14T15:00:00.000Z
+WHS9_86,Population (in thousands) total,numeric,WPR,Western Pacific,Country,COK,Cook Islands,Year,2016,true,,,,,,,,,,,,,17,,,,,,17,,,EN,2018-03-14T15:00:00.000Z
+WHS9_86,Population (in thousands) total,numeric,AMR,Americas,Country,CHL,Chile,Year,2016,true,,,,,,,,,,,,,17910,,,,,,"17,910",,,EN,2018-03-14T15:00:00.000Z
+WHS9_86,Population (in thousands) total,numeric,EUR,Europe,Country,KAZ,Kazakhstan,Year,2016,true,,,,,,,,,,,,,17988,,,,,,"17,988",,,EN,2018-03-14T15:00:00.000Z
+WHS9_86,Population (in thousands) total,numeric,AFR,Africa,Country,MLI,Mali,Year,2016,true,,,,,,,,,,,,,17995,,,,,,"17,995",,,EN,2018-03-14T15:00:00.000Z
+WHS9_86,Population (in thousands) total,numeric,AMR,Americas,Country,LCA,Saint Lucia,Year,2016,true,,,,,,,,,,,,,178,,,,,,178,,,EN,2018-03-14T15:00:00.000Z
+WHS9_86,Population (in thousands) total,numeric,AFR,Africa,Country,MWI,Malawi,Year,2016,true,,,,,,,,,,,,,18092,,,,,,"18,092",,,EN,2018-03-14T15:00:00.000Z
+WHS9_86,Population (in thousands) total,numeric,EMR,Eastern Mediterranean,Country,SYR,Syrian Arab Republic,Year,2016,true,,,,,,,,,,,,,18430,,,,,,"18,430",,,EN,2018-03-14T15:00:00.000Z
+WHS9_86,Population (in thousands) total,numeric,AFR,Africa,Country,BFA,Burkina Faso,Year,2016,true,,,,,,,,,,,,,18646,,,,,,"18,646",,,EN,2018-03-14T15:00:00.000Z
+WHS9_86,Population (in thousands) total,numeric,AFR,Africa,Country,NGA,Nigeria,Year,2016,true,,,,,,,,,,,,,185990,,,,,,"185,990",,,EN,2018-03-14T15:00:00.000Z
+WHS9_86,Population (in thousands) total,numeric,EUR,Europe,Country,ROU,Romania,Year,2016,true,,,,,,,,,,,,,19778,,,,,,"19,778",,,EN,2018-03-14T15:00:00.000Z
+WHS9_86,Population (in thousands) total,numeric,EMR,Eastern Mediterranean,Country,PAK,Pakistan,Year,2016,true,,,,,,,,,,,,,193203,,,,,,"193,203",,,EN,2018-03-14T15:00:00.000Z
+WHS9_86,Population (in thousands) total,numeric,WPR,Western Pacific,Country,WSM,Samoa,Year,2016,true,,,,,,,,,,,,,195,,,,,,195,,,EN,2018-03-14T15:00:00.000Z
+WHS9_86,Population (in thousands) total,numeric,WPR,Western Pacific,Country,NIU,Niue,Year,2016,true,,,,,,,,,,,,,2,,,,,,2,,,EN,2018-03-14T15:00:00.000Z
+WHS9_86,Population (in thousands) total,numeric,AFR,Africa,Country,GMB,Gambia,Year,2016,true,,,,,,,,,,,,,2039,,,,,,"2,039",,,EN,2018-03-14T15:00:00.000Z
+WHS9_86,Population (in thousands) total,numeric,EUR,Europe,Country,SVN,Slovenia,Year,2016,true,,,,,,,,,,,,,2078,,,,,,"2,078",,,EN,2018-03-14T15:00:00.000Z
+WHS9_86,Population (in thousands) total,numeric,EUR,Europe,Country,MKD,The former Yugoslav Republic of Macedonia,Year,2016,true,,,,,,,,,,,,,2081,,,,,,"2,081",,,EN,2018-03-14T15:00:00.000Z
+WHS9_86,Population (in thousands) total,numeric,AFR,Africa,Country,LSO,Lesotho,Year,2016,true,,,,,,,,,,,,,2204,,,,,,"2,204",,,EN,2018-03-14T15:00:00.000Z
+WHS9_86,Population (in thousands) total,numeric,AFR,Africa,Country,BWA,Botswana,Year,2016,true,,,,,,,,,,,,,2250,,,,,,"2,250",,,EN,2018-03-14T15:00:00.000Z
+WHS9_86,Population (in thousands) total,numeric,AFR,Africa,Country,NAM,Namibia,Year,2016,true,,,,,,,,,,,,,2480,,,,,,"2,480",,,EN,2018-03-14T15:00:00.000Z
+WHS9_86,Population (in thousands) total,numeric,EMR,Eastern Mediterranean,Country,QAT,Qatar,Year,2016,true,,,,,,,,,,,,,2570,,,,,,"2,570",,,EN,2018-03-14T15:00:00.000Z
+WHS9_86,Population (in thousands) total,numeric,AMR,Americas,Country,JAM,Jamaica,Year,2016,true,,,,,,,,,,,,,2881,,,,,,"2,881",,,EN,2018-03-14T15:00:00.000Z
+WHS9_86,Population (in thousands) total,numeric,EUR,Europe,Country,LTU,Lithuania,Year,2016,true,,,,,,,,,,,,,2908,,,,,,"2,908",,,EN,2018-03-14T15:00:00.000Z
+WHS9_86,Population (in thousands) total,numeric,EUR,Europe,Country,ARM,Armenia,Year,2016,true,,,,,,,,,,,,,2925,,,,,,"2,925",,,EN,2018-03-14T15:00:00.000Z
+WHS9_86,Population (in thousands) total,numeric,EUR,Europe,Country,ALB,Albania,Year,2016,true,,,,,,,,,,,,,2926,,,,,,"2,926",,,EN,2018-03-14T15:00:00.000Z
+WHS9_86,Population (in thousands) total,numeric,AFR,Africa,Country,NER,Niger,Year,2016,true,,,,,,,,,,,,,20673,,,,,,"20,673",,,EN,2018-03-14T15:00:00.000Z
+WHS9_86,Population (in thousands) total,numeric,SEAR,South-East Asia,Country,LKA,Sri Lanka,Year,2016,true,,,,,,,,,,,,,20798,,,,,,"20,798",,,EN,2018-03-14T15:00:00.000Z
+WHS9_86,Population (in thousands) total,numeric,AFR,Africa,Country,STP,Sao Tome and Principe,Year,2016,true,,,,,,,,,,,,,200,,,,,,200,,,EN,2018-03-14T15:00:00.000Z
+WHS9_86,Population (in thousands) total,numeric,AMR,Americas,Country,BRA,Brazil,Year,2016,true,,,,,,,,,,,,,207653,,,,,,"207,653",,,EN,2018-03-14T15:00:00.000Z
+WHS9_86,Population (in thousands) total,numeric,WPR,Western Pacific,Country,PLW,Palau,Year,2016,true,,,,,,,,,,,,,22,,,,,,22,,,EN,2018-03-14T15:00:00.000Z
+WHS9_86,Population (in thousands) total,numeric,AFR,Africa,Country,CMR,Cameroon,Year,2016,true,,,,,,,,,,,,,23439,,,,,,"23,439",,,EN,2018-03-14T15:00:00.000Z
+WHS9_86,Population (in thousands) total,numeric,AFR,Africa,Country,CIV,Côte d’Ivoire,Year,2016,true,,,,,,,,,,,,,23696,,,,,,"23,696",,,EN,2018-03-14T15:00:00.000Z
+WHS9_86,Population (in thousands) total,numeric,WPR,Western Pacific,Country,AUS,Australia,Year,2016,true,,,,,,,,,,,,,24126,,,,,,"24,126",,,EN,2018-03-14T15:00:00.000Z
+WHS9_86,Population (in thousands) total,numeric,AFR,Africa,Country,MDG,Madagascar,Year,2016,true,,,,,,,,,,,,,24895,,,,,,"24,895",,,EN,2018-03-14T15:00:00.000Z
+WHS9_86,Population (in thousands) total,numeric,SEAR,South-East Asia,Country,PRK,Democratic People's Republic of Korea,Year,2016,true,,,,,,,,,,,,,25369,,,,,,"25,369",,,EN,2018-03-14T15:00:00.000Z
+WHS9_86,Population (in thousands) total,numeric,SEAR,South-East Asia,Country,IDN,Indonesia,Year,2016,true,,,,,,,,,,,,,261115,,,,,,"261,115",,,EN,2018-03-14T15:00:00.000Z
+WHS9_86,Population (in thousands) total,numeric,EMR,Eastern Mediterranean,Country,YEM,Yemen,Year,2016,true,,,,,,,,,,,,,27584,,,,,,"27,584",,,EN,2018-03-14T15:00:00.000Z
+WHS9_86,Population (in thousands) total,numeric,WPR,Western Pacific,Country,VUT,Vanuatu,Year,2016,true,,,,,,,,,,,,,270,,,,,,270,,,EN,2018-03-14T15:00:00.000Z
+WHS9_86,Population (in thousands) total,numeric,AFR,Africa,Country,GHA,Ghana,Year,2016,true,,,,,,,,,,,,,28207,,,,,,"28,207",,,EN,2018-03-14T15:00:00.000Z
+WHS9_86,Population (in thousands) total,numeric,AFR,Africa,Country,AGO,Angola,Year,2016,true,,,,,,,,,,,,,28813,,,,,,"28,813",,,EN,2018-03-14T15:00:00.000Z
+WHS9_86,Population (in thousands) total,numeric,AFR,Africa,Country,MOZ,Mozambique,Year,2016,true,,,,,,,,,,,,,28829,,,,,,"28,829",,,EN,2018-03-14T15:00:00.000Z
+WHS9_86,Population (in thousands) total,numeric,SEAR,South-East Asia,Country,NPL,Nepal,Year,2016,true,,,,,,,,,,,,,28983,,,,,,"28,983",,,EN,2018-03-14T15:00:00.000Z
+WHS9_86,Population (in thousands) total,numeric,AMR,Americas,Country,BRB,Barbados,Year,2016,true,,,,,,,,,,,,,285,,,,,,285,,,EN,2018-03-14T15:00:00.000Z
+WHS9_86,Population (in thousands) total,numeric,WPR,Western Pacific,Country,MNG,Mongolia,Year,2016,true,,,,,,,,,,,,,3027,,,,,,"3,027",,,EN,2018-03-14T15:00:00.000Z
+WHS9_86,Population (in thousands) total,numeric,AMR,Americas,Country,URY,Uruguay,Year,2016,true,,,,,,,,,,,,,3444,,,,,,"3,444",,,EN,2018-03-14T15:00:00.000Z
+WHS9_86,Population (in thousands) total,numeric,EUR,Europe,Country,BIH,Bosnia and Herzegovina,Year,2016,true,,,,,,,,,,,,,3517,,,,,,"3,517",,,EN,2018-03-14T15:00:00.000Z
+WHS9_86,Population (in thousands) total,numeric,EUR,Europe,Country,GEO,Georgia,Year,2016,true,,,,,,,,,,,,,3925,,,,,,"3,925",,,EN,2018-03-14T15:00:00.000Z
+WHS9_86,Population (in thousands) total,numeric,WPR,Western Pacific,Country,MYS,Malaysia,Year,2016,true,,,,,,,,,,,,,31187,,,,,,"31,187",,,EN,2018-03-14T15:00:00.000Z
+WHS9_86,Population (in thousands) total,numeric,EUR,Europe,Country,UZB,Uzbekistan,Year,2016,true,,,,,,,,,,,,,31447,,,,,,"31,447",,,EN,2018-03-14T15:00:00.000Z
+WHS9_86,Population (in thousands) total,numeric,AMR,Americas,Country,VEN,Venezuela (Bolivarian Republic of),Year,2016,true,,,,,,,,,,,,,31568,,,,,,"31,568",,,EN,2018-03-14T15:00:00.000Z
+WHS9_86,Population (in thousands) total,numeric,AMR,Americas,Country,PER,Peru,Year,2016,true,,,,,,,,,,,,,31774,,,,,,"31,774",,,EN,2018-03-14T15:00:00.000Z
+WHS9_86,Population (in thousands) total,numeric,EMR,Eastern Mediterranean,Country,SAU,Saudi Arabia,Year,2016,true,,,,,,,,,,,,,32276,,,,,,"32,276",,,EN,2018-03-14T15:00:00.000Z
+WHS9_86,Population (in thousands) total,numeric,AMR,Americas,Country,USA,United States of America,Year,2016,true,,,,,,,,,,,,,322180,,,,,,"322,180",,,EN,2018-03-14T15:00:00.000Z
+WHS9_86,Population (in thousands) total,numeric,EUR,Europe,Country,SMR,San Marino,Year,2016,true,,,,,,,,,,,,,33,,,,,,33,,,EN,2018-03-14T15:00:00.000Z
+WHS9_86,Population (in thousands) total,numeric,EUR,Europe,Country,ISL,Iceland,Year,2016,true,,,,,,,,,,,,,332,,,,,,332,,,EN,2018-03-14T15:00:00.000Z
+WHS9_86,Population (in thousands) total,numeric,EMR,Eastern Mediterranean,Country,AFG,Afghanistan,Year,2016,true,,,,,,,,,,,,,34656,,,,,,"34,656",,,EN,2018-03-14T15:00:00.000Z
+WHS9_86,Population (in thousands) total,numeric,EMR,Eastern Mediterranean,Country,MAR,Morocco,Year,2016,true,,,,,,,,,,,,,35277,,,,,,"35,277",,,EN,2018-03-14T15:00:00.000Z
+WHS9_86,Population (in thousands) total,numeric,AMR,Americas,Country,CAN,Canada,Year,2016,true,,,,,,,,,,,,,36290,,,,,,"36,290",,,EN,2018-03-14T15:00:00.000Z
+WHS9_86,Population (in thousands) total,numeric,AMR,Americas,Country,BLZ,Belize,Year,2016,true,,,,,,,,,,,,,367,,,,,,367,,,EN,2018-03-14T15:00:00.000Z
+WHS9_86,Population (in thousands) total,numeric,EMR,Eastern Mediterranean,Country,IRQ,Iraq,Year,2016,true,,,,,,,,,,,,,37203,,,,,,"37,203",,,EN,2018-03-14T15:00:00.000Z
+WHS9_86,Population (in thousands) total,numeric,EUR,Europe,Country,MCO,Monaco,Year,2016,true,,,,,,,,,,,,,38,,,,,,38,,,EN,2018-03-14T15:00:00.000Z
+WHS9_86,Population (in thousands) total,numeric,EUR,Europe,Country,POL,Poland,Year,2016,true,,,,,,,,,,,,,38224,,,,,,"38,224",,,EN,2018-03-14T15:00:00.000Z
+WHS9_86,Population (in thousands) total,numeric,EMR,Eastern Mediterranean,Country,SDN,Sudan,Year,2016,true,,,,,,,,,,,,,39579,,,,,,"39,579",,,EN,2018-03-14T15:00:00.000Z
+WHS9_86,Population (in thousands) total,numeric,AMR,Americas,Country,BHS,Bahamas,Year,2016,true,,,,,,,,,,,,,391,,,,,,391,,,EN,2018-03-14T15:00:00.000Z
+WHS9_86,Population (in thousands) total,numeric,AMR,Americas,Country,PAN,Panama,Year,2016,true,,,,,,,,,,,,,4034,,,,,,"4,034",,,EN,2018-03-14T15:00:00.000Z
+WHS9_86,Population (in thousands) total,numeric,EMR,Eastern Mediterranean,Country,KWT,Kuwait,Year,2016,true,,,,,,,,,,,,,4053,,,,,,"4,053",,,EN,2018-03-14T15:00:00.000Z
+WHS9_86,Population (in thousands) total,numeric,EUR,Europe,Country,MDA,Republic of Moldova,Year,2016,true,,,,,,,,,,,,,4060,,,,,,"4,060",,,EN,2018-03-14T15:00:00.000Z
+WHS9_86,Population (in thousands) total,numeric,EUR,Europe,Country,HRV,Croatia,Year,2016,true,,,,,,,,,,,,,4213,,,,,,"4,213",,,EN,2018-03-14T15:00:00.000Z
+WHS9_86,Population (in thousands) total,numeric,AFR,Africa,Country,MRT,Mauritania,Year,2016,true,,,,,,,,,,,,,4301,,,,,,"4,301",,,EN,2018-03-14T15:00:00.000Z
+WHS9_86,Population (in thousands) total,numeric,EMR,Eastern Mediterranean,Country,OMN,Oman,Year,2016,true,,,,,,,,,,,,,4425,,,,,,"4,425",,,EN,2018-03-14T15:00:00.000Z
+WHS9_86,Population (in thousands) total,numeric,AFR,Africa,Country,CAF,Central African Republic,Year,2016,true,,,,,,,,,,,,,4595,,,,,,"4,595",,,EN,2018-03-14T15:00:00.000Z
+WHS9_86,Population (in thousands) total,numeric,AFR,Africa,Country,LBR,Liberia,Year,2016,true,,,,,,,,,,,,,4614,,,,,,"4,614",,,EN,2018-03-14T15:00:00.000Z
+WHS9_86,Population (in thousands) total,numeric,WPR,Western Pacific,Country,NZL,New Zealand,Year,2016,true,,,,,,,,,,,,,4661,,,,,,"4,661",,,EN,2018-03-14T15:00:00.000Z
+WHS9_86,Population (in thousands) total,numeric,EUR,Europe,Country,IRL,Ireland,Year,2016,true,,,,,,,,,,,,,4726,,,,,,"4,726",,,EN,2018-03-14T15:00:00.000Z
+WHS9_86,Population (in thousands) total,numeric,AMR,Americas,Country,CRI,Costa Rica,Year,2016,true,,,,,,,,,,,,,4857,,,,,,"4,857",,,EN,2018-03-14T15:00:00.000Z
+WHS9_86,Population (in thousands) total,numeric,AFR,Africa,Country,ERI,Eritrea,Year,2016,true,,,,,,,,,,,,,4955,,,,,,"4,955",,,EN,2018-03-14T15:00:00.000Z
+WHS9_86,Population (in thousands) total,numeric,AFR,Africa,Country,DZA,Algeria,Year,2016,true,,,,,,,,,,,,,40606,,,,,,"40,606",,,EN,2018-03-14T15:00:00.000Z
+WHS9_86,Population (in thousands) total,numeric,AFR,Africa,Country,UGA,Uganda,Year,2016,true,,,,,,,,,,,,,41488,,,,,,"41,488",,,EN,2018-03-14T15:00:00.000Z
+WHS9_86,Population (in thousands) total,numeric,WPR,Western Pacific,Country,BRN,Brunei Darussalam,Year,2016,true,,,,,,,,,,,,,423,,,,,,423,,,EN,2018-03-14T15:00:00.000Z
+WHS9_86,Population (in thousands) total,numeric,SEAR,South-East Asia,Country,MDV,Maldives,Year,2016,true,,,,,,,,,,,,,428,,,,,,428,,,EN,2018-03-14T15:00:00.000Z
+WHS9_86,Population (in thousands) total,numeric,EUR,Europe,Country,MLT,Malta,Year,2016,true,,,,,,,,,,,,,429,,,,,,429,,,EN,2018-03-14T15:00:00.000Z
+WHS9_86,Population (in thousands) total,numeric,AMR,Americas,Country,ARG,Argentina,Year,2016,true,,,,,,,,,,,,,43847,,,,,,"43,847",,,EN,2018-03-14T15:00:00.000Z
+WHS9_86,Population (in thousands) total,numeric,EUR,Europe,Country,UKR,Ukraine,Year,2016,true,,,,,,,,,,,,,44439,,,,,,"44,439",,,EN,2018-03-14T15:00:00.000Z
+WHS9_86,Population (in thousands) total,numeric,EUR,Europe,Country,ESP,Spain,Year,2016,true,,,,,,,,,,,,,46348,,,,,,"46,348",,,EN,2018-03-14T15:00:00.000Z
+WHS9_86,Population (in thousands) total,numeric,AFR,Africa,Country,KEN,Kenya,Year,2016,true,,,,,,,,,,,,,48462,,,,,,"48,462",,,EN,2018-03-14T15:00:00.000Z
+WHS9_86,Population (in thousands) total,numeric,AMR,Americas,Country,COL,Colombia,Year,2016,true,,,,,,,,,,,,,48653,,,,,,"48,653",,,EN,2018-03-14T15:00:00.000Z
+WHS9_86,Population (in thousands) total,numeric,AFR,Africa,Country,COG,Congo,Year,2016,true,,,,,,,,,,,,,5126,,,,,,"5,126",,,EN,2018-03-14T15:00:00.000Z
+WHS9_86,Population (in thousands) total,numeric,EUR,Europe,Country,NOR,Norway,Year,2016,true,,,,,,,,,,,,,5255,,,,,,"5,255",,,EN,2018-03-14T15:00:00.000Z
+WHS9_86,Population (in thousands) total,numeric,EUR,Europe,Country,SVK,Slovakia,Year,2016,true,,,,,,,,,,,,,5444,,,,,,"5,444",,,EN,2018-03-14T15:00:00.000Z
+WHS9_86,Population (in thousands) total,numeric,EUR,Europe,Country,FIN,Finland,Year,2016,true,,,,,,,,,,,,,5503,,,,,,"5,503",,,EN,2018-03-14T15:00:00.000Z
+WHS9_86,Population (in thousands) total,numeric,WPR,Western Pacific,Country,SGP,Singapore,Year,2016,true,,,,,,,,,,,,,5622,,,,,,"5,622",,,EN,2018-03-14T15:00:00.000Z
+WHS9_86,Population (in thousands) total,numeric,EUR,Europe,Country,TKM,Turkmenistan,Year,2016,true,,,,,,,,,,,,,5663,,,,,,"5,663",,,EN,2018-03-14T15:00:00.000Z
+WHS9_86,Population (in thousands) total,numeric,EUR,Europe,Country,DNK,Denmark,Year,2016,true,,,,,,,,,,,,,5712,,,,,,"5,712",,,EN,2018-03-14T15:00:00.000Z
+WHS9_86,Population (in thousands) total,numeric,EUR,Europe,Country,KGZ,Kyrgyzstan,Year,2016,true,,,,,,,,,,,,,5956,,,,,,"5,956",,,EN,2018-03-14T15:00:00.000Z
+WHS9_86,Population (in thousands) total,numeric,WPR,Western Pacific,Country,KOR,Republic of Korea,Year,2016,true,,,,,,,,,,,,,50792,,,,,,"50,792",,,EN,2018-03-14T15:00:00.000Z
+WHS9_86,Population (in thousands) total,numeric,SEAR,South-East Asia,Country,MMR,Myanmar,Year,2016,true,,,,,,,,,,,,,52885,,,,,,"52,885",,,EN,2018-03-14T15:00:00.000Z
+WHS9_86,Population (in thousands) total,numeric,WPR,Western Pacific,Country,MHL,Marshall Islands,Year,2016,true,,,,,,,,,,,,,53,,,,,,53,,,EN,2018-03-14T15:00:00.000Z
+WHS9_86,Population (in thousands) total,numeric,AFR,Africa,Country,CPV,Cabo Verde,Year,2016,true,,,,,,,,,,,,,540,,,,,,540,,,EN,2018-03-14T15:00:00.000Z
+WHS9_86,Population (in thousands) total,numeric,AMR,Americas,Country,KNA,Saint Kitts and Nevis,Year,2016,true,,,,,,,,,,,,,55,,,,,,55,,,EN,2018-03-14T15:00:00.000Z
+WHS9_86,Population (in thousands) total,numeric,AFR,Africa,Country,TZA,United Republic of Tanzania,Year,2016,true,,,,,,,,,,,,,55572,,,,,,"55,572",,,EN,2018-03-14T15:00:00.000Z
+WHS9_86,Population (in thousands) total,numeric,AMR,Americas,Country,SUR,Suriname,Year,2016,true,,,,,,,,,,,,,558,,,,,,558,,,EN,2018-03-14T15:00:00.000Z
+WHS9_86,Population (in thousands) total,numeric,AFR,Africa,Country,ZAF,South Africa,Year,2016,true,,,,,,,,,,,,,56015,,,,,,"56,015",,,EN,2018-03-14T15:00:00.000Z
+WHS9_86,Population (in thousands) total,numeric,EUR,Europe,Country,LUX,Luxembourg,Year,2016,true,,,,,,,,,,,,,576,,,,,,576,,,EN,2018-03-14T15:00:00.000Z
+WHS9_86,Population (in thousands) total,numeric,EUR,Europe,Country,ITA,Italy,Year,2016,true,,,,,,,,,,,,,59430,,,,,,"59,430",,,EN,2018-03-14T15:00:00.000Z
+WHS9_86,Population (in thousands) total,numeric,WPR,Western Pacific,Country,SLB,Solomon Islands,Year,2016,true,,,,,,,,,,,,,599,,,,,,599,,,EN,2018-03-14T15:00:00.000Z
+WHS9_86,Population (in thousands) total,numeric,EMR,Eastern Mediterranean,Country,LBN,Lebanon,Year,2016,true,,,,,,,,,,,,,6007,,,,,,"6,007",,,EN,2018-03-14T15:00:00.000Z
+WHS9_86,Population (in thousands) total,numeric,AMR,Americas,Country,NIC,Nicaragua,Year,2016,true,,,,,,,,,,,,,6150,,,,,,"6,150",,,EN,2018-03-14T15:00:00.000Z
+WHS9_86,Population (in thousands) total,numeric,EMR,Eastern Mediterranean,Country,LBY,Libya,Year,2016,true,,,,,,,,,,,,,6293,,,,,,"6,293",,,EN,2018-03-14T15:00:00.000Z
+WHS9_86,Population (in thousands) total,numeric,AMR,Americas,Country,SLV,El Salvador,Year,2016,true,,,,,,,,,,,,,6345,,,,,,"6,345",,,EN,2018-03-14T15:00:00.000Z
+WHS9_86,Population (in thousands) total,numeric,AMR,Americas,Country,PRY,Paraguay,Year,2016,true,,,,,,,,,,,,,6725,,,,,,"6,725",,,EN,2018-03-14T15:00:00.000Z
+WHS9_86,Population (in thousands) total,numeric,WPR,Western Pacific,Country,LAO,Lao People's Democratic Republic,Year,2016,true,,,,,,,,,,,,,6758,,,,,,"6,758",,,EN,2018-03-14T15:00:00.000Z
+WHS9_86,Population (in thousands) total,numeric,EUR,Europe,Country,MNE,Montenegro,Year,2016,true,,,,,,,,,,,,,629,,,,,,629,,,EN,2018-03-14T15:00:00.000Z
+WHS9_86,Population (in thousands) total,numeric,EUR,Europe,Country,FRA,France,Year,2016,true,,,,,,,,,,,,,64721,,,,,,"64,721",,,EN,2018-03-14T15:00:00.000Z
+WHS9_86,Population (in thousands) total,numeric,EUR,Europe,Country,GBR,United Kingdom of Great Britain and Northern Ireland,Year,2016,true,,,,,,,,,,,,,65789,,,,,,"65,789",,,EN,2018-03-14T15:00:00.000Z
+WHS9_86,Population (in thousands) total,numeric,SEAR,South-East Asia,Country,THA,Thailand,Year,2016,true,,,,,,,,,,,,,68864,,,,,,"68,864",,,EN,2018-03-14T15:00:00.000Z
+WHS9_86,Population (in thousands) total,numeric,EUR,Europe,Country,BGR,Bulgaria,Year,2016,true,,,,,,,,,,,,,7131,,,,,,"7,131",,,EN,2018-03-14T15:00:00.000Z
+WHS9_86,Population (in thousands) total,numeric,AFR,Africa,Country,SLE,Sierra Leone,Year,2016,true,,,,,,,,,,,,,7396,,,,,,"7,396",,,EN,2018-03-14T15:00:00.000Z
+WHS9_86,Population (in thousands) total,numeric,AFR,Africa,Country,TGO,Togo,Year,2016,true,,,,,,,,,,,,,7606,,,,,,"7,606",,,EN,2018-03-14T15:00:00.000Z
+WHS9_86,Population (in thousands) total,numeric,AMR,Americas,Country,DMA,Dominica,Year,2016,true,,,,,,,,,,,,,74,,,,,,74,,,EN,2018-03-14T15:00:00.000Z
+WHS9_86,Population (in thousands) total,numeric,EUR,Europe,Country,AND,Andorra,Year,2016,true,,,,,,,,,,,,,77,,,,,,77,,,EN,2018-03-14T15:00:00.000Z
+WHS9_86,Population (in thousands) total,numeric,AMR,Americas,Country,GUY,Guyana,Year,2016,true,,,,,,,,,,,,,773,,,,,,773,,,EN,2018-03-14T15:00:00.000Z
+WHS9_86,Population (in thousands) total,numeric,AFR,Africa,Country,COD,Democratic Republic of the Congo,Year,2016,true,,,,,,,,,,,,,78736,,,,,,"78,736",,,EN,2018-03-14T15:00:00.000Z
+WHS9_86,Population (in thousands) total,numeric,EUR,Europe,Country,TUR,Turkey,Year,2016,true,,,,,,,,,,,,,79512,,,,,,"79,512",,,EN,2018-03-14T15:00:00.000Z
+WHS9_86,Population (in thousands) total,numeric,AFR,Africa,Country,COM,Comoros,Year,2016,true,,,,,,,,,,,,,796,,,,,,796,,,EN,2018-03-14T15:00:00.000Z
+WHS9_86,Population (in thousands) total,numeric,SEAR,South-East Asia,Country,BTN,Bhutan,Year,2016,true,,,,,,,,,,,,,798,,,,,,798,,,EN,2018-03-14T15:00:00.000Z
+WHS9_86,Population (in thousands) total,numeric,WPR,Western Pacific,Country,PNG,Papua New Guinea,Year,2016,true,,,,,,,,,,,,,8085,,,,,,"8,085",,,EN,2018-03-14T15:00:00.000Z
+WHS9_86,Population (in thousands) total,numeric,EUR,Europe,Country,ISR,Israel,Year,2016,true,,,,,,,,,,,,,8192,,,,,,"8,192",,,EN,2018-03-14T15:00:00.000Z
+WHS9_86,Population (in thousands) total,numeric,EUR,Europe,Country,CHE,Switzerland,Year,2016,true,,,,,,,,,,,,,8402,,,,,,"8,402",,,EN,2018-03-14T15:00:00.000Z
+WHS9_86,Population (in thousands) total,numeric,EUR,Europe,Country,AUT,Austria,Year,2016,true,,,,,,,,,,,,,8712,,,,,,"8,712",,,EN,2018-03-14T15:00:00.000Z
+WHS9_86,Population (in thousands) total,numeric,EUR,Europe,Country,TJK,Tajikistan,Year,2016,true,,,,,,,,,,,,,8735,,,,,,"8,735",,,EN,2018-03-14T15:00:00.000Z
+WHS9_86,Population (in thousands) total,numeric,EUR,Europe,Country,SRB,Serbia,Year,2016,true,,,,,,,,,,,,,8820,,,,,,"8,820",,,EN,2018-03-14T15:00:00.000Z
+WHS9_86,Population (in thousands) total,numeric,EMR,Eastern Mediterranean,Country,IRN,Iran (Islamic Republic of),Year,2016,true,,,,,,,,,,,,,80277,,,,,,"80,277",,,EN,2018-03-14T15:00:00.000Z
+WHS9_86,Population (in thousands) total,numeric,EUR,Europe,Country,DEU,Germany,Year,2016,true,,,,,,,,,,,,,81915,,,,,,"81,915",,,EN,2018-03-14T15:00:00.000Z
+WHS9_86,Population (in thousands) total,numeric,WPR,Western Pacific,Country,FJI,Fiji,Year,2016,true,,,,,,,,,,,,,899,,,,,,899,,,EN,2018-03-14T15:00:00.000Z
+WHS9_86,Population (in thousands) total,numeric,AMR,Americas,Country,HND,Honduras,Year,2016,true,,,,,,,,,,,,,9113,,,,,,"9,113",,,EN,2018-03-14T15:00:00.000Z
+WHS9_86,Population (in thousands) total,numeric,EMR,Eastern Mediterranean,Country,ARE,United Arab Emirates,Year,2016,true,,,,,,,,,,,,,9270,,,,,,"9,270",,,EN,2018-03-14T15:00:00.000Z
+WHS9_86,Population (in thousands) total,numeric,EMR,Eastern Mediterranean,Country,JOR,Jordan,Year,2016,true,,,,,,,,,,,,,9456,,,,,,"9,456",,,EN,2018-03-14T15:00:00.000Z
+WHS9_86,Population (in thousands) total,numeric,EUR,Europe,Country,BLR,Belarus,Year,2016,true,,,,,,,,,,,,,9480,,,,,,"9,480",,,EN,2018-03-14T15:00:00.000Z
+WHS9_86,Population (in thousands) total,numeric,EUR,Europe,Country,AZE,Azerbaijan,Year,2016,true,,,,,,,,,,,,,9725,,,,,,"9,725",,,EN,2018-03-14T15:00:00.000Z
+WHS9_86,Population (in thousands) total,numeric,EUR,Europe,Country,HUN,Hungary,Year,2016,true,,,,,,,,,,,,,9753,,,,,,"9,753",,,EN,2018-03-14T15:00:00.000Z
+WHS9_86,Population (in thousands) total,numeric,EUR,Europe,Country,SWE,Sweden,Year,2016,true,,,,,,,,,,,,,9838,,,,,,"9,838",,,EN,2018-03-14T15:00:00.000Z
+WHS9_86,Population (in thousands) total,numeric,AFR,Africa,Country,SYC,Seychelles,Year,2016,true,,,,,,,,,,,,,94,,,,,,94,,,EN,2018-03-14T15:00:00.000Z
+WHS9_86,Population (in thousands) total,numeric,WPR,Western Pacific,Country,VNM,Viet Nam,Year,2016,true,,,,,,,,,,,,,94569,,,,,,"94,569",,,EN,2018-03-14T15:00:00.000Z
+WHS9_86,Population (in thousands) total,numeric,EMR,Eastern Mediterranean,Country,DJI,Djibouti,Year,2016,true,,,,,,,,,,,,,942,,,,,,942,,,EN,2018-03-14T15:00:00.000Z
+WHS9_86,Population (in thousands) total,numeric,EMR,Eastern Mediterranean,Country,EGY,Egypt,Year,2016,true,,,,,,,,,,,,,95689,,,,,,"95,689",,,EN,2018-03-14T15:00:00.000Z

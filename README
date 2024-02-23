@@ -1,0 +1,4 @@
+The codes for the paper "Estimation of World Seroprevalence of SARS-CoV-2 antibodies".
+
+The "vaccination" and "infection" directories contain the codes to estimate the vaccine-induced (Sections 3.1) and the infection-induced (Sections 3.2) seroprevalences, respectively.
+The detailed manuals are provided in each directory as a README file.

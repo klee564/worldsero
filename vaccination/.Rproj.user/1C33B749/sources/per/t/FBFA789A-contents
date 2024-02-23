@@ -1,0 +1,8 @@
+"thetaV_real.R" contains the code to obtain the vaccine-induced seroprevalence,
+which makes result file "thetaV.rds".
+
+The "R" folder contains functions used in "thetaV_real.R".
+Particularly, the functions in "regression_multinom.R" and "regression_pois.R" are related to the NIMBLE program to estimate the missing data.
+The "estimate_VE" function in "simulVE_ftn.R" and "hierarchicalmeta2.stan" file are related to the STAN program to estimate the vaccince effectiveness.
+
+The "extdata" folder contains the data used to estimate the vaccine-induced seroprevalence.
